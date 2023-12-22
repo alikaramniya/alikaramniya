@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Frameworks, courses etc**
 
-- 👨‍💻 All of my projects are available at [https://t.me/alikaram_98](https://t.me/alikaram_98)
+- 👨‍💻 All of my projects are available at [https://t.me/alikaram_98](https://t.me/alikaram_98) and **alikaramniya98@gmail.com**
 
 - 💬 Ask me about **Frontend && Backend**
-
-- 📫 How to reach me **alikaramniya98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
