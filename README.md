@@ -1,2 +1,2 @@
 
-### 💻😎 Alikaram
+### 💻 Alikaram
